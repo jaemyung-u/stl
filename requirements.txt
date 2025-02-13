@@ -1,7 +1,0 @@
-torch
-torchvision
-tqdm
-accelerate
-wandb
-numpy
-pillow
