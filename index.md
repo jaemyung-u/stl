@@ -59,7 +59,7 @@ achieving higher accuracy on ImageNet100-pretrained ResNet-50 evaluations.
 STL effectively captures the underlying structure of transformations.
 UMAP visualizations show that STL learns meaningful transformation representations without explicit transformation labels.
 - **Inter-relationship of transformations**: STL groups similar transformations together, capturing meaningful relationships.
-- **Intra-relationship of transformations**: STL organizes transformation representations by intensity, showing smooth variations.
+- **Intra-relationship of transformations**: STL organizes transformation representations by intensity, showing smooth transition.
 
 ![TransRepr](/static/image/transformation_representation.PNG)
 
