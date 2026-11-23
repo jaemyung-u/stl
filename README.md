@@ -4,9 +4,9 @@
 [![arXiv](https://img.shields.io/badge/arXiv%20paper-2501.08712-b31b1b.svg)](https://arxiv.org/abs/2501.08712)&nbsp;
 
 <div align="center">
-  <a href="https://sites.google.com/view/jaemyungyu" target="_blank">Jaemyung&nbsp;Yu</a> &ensp; <b>&middot;</b> &ensp;
-  <a href="https://sites.google.com/view/jaehyun-choi" target="_blank">Jaehyun&nbsp;Choi</a> &ensp; <b>&middot;</b> &ensp;
-  Dong-Jae&nbsp;Lee &ensp; <b>&middot;</b> &ensp;
+  <a href="https://jaemyungyu.github.io" target="_blank">Jaemyung&nbsp;Yu</a> &ensp; <b>&middot;</b> &ensp;
+  <a href="https://pre6ent.github.io/" target="_blank">Jaehyun&nbsp;Choi</a> &ensp; <b>&middot;</b> &ensp;
+  <a href="https://scholar.google.com/citations?user=VNOU2pUAAAAJ&hl=ko&oi=ao" target="_blank">Dong-Jae&nbsp;Lee</a> &ensp; <b>&middot;</b> &ensp;
   HyeongGwon&nbsp;Hong &ensp; <b>&middot;</b> &ensp;
   <a href="http://siit.kaist.ac.kr/" target="_blank">Junmo&nbsp;Kim</a>
   <br>
